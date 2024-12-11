@@ -1,0 +1,54 @@
+div p{
+    background-color: rgb(8, 8, 50);
+    color: rgb(18, 18, 19);(35,12,240,0.9)
+}
+body{
+    background-image: url(https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg);
+    background-repeat: no-repeat;
+    background-position: top left;
+    background-attachment: fixed;
+    background:rgba(171, 218, 17, 0.9) url(https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg) no-repeat top left scroll;
+
+}
+
+div > p{
+    background-color: rgb(79, 28, 218);
+}
+div > p{
+    background-color: rgb(19, 200, 22);
+}
+div ~ P{
+    background-color: rgb(42, 142, 185);
+}
+.text{
+    width:20em;
+   text-align: justify;
+text-decoration-line:overline;
+text-decoration-color:red;
+text-decoration-thickness: 5px;
+text-decoration-style: dotted;
+text-decoration: none;
+text-indent: 10px;
+word-spacing: -5px;
+/*white-space: nowrap;*/
+text-shadow: 10px orangered;
+}
+h3{
+    /*font-size: 60px;
+    /*text-shadow: 20px 35px 40px rgb(42, 41, 41);*/
+    /*font-family: 'Times New Roman', Times, serif;*/
+    font-weight: bolder;
+    font-style: normal;
+    font-variant: small-caps;
+    font-size:  60px;
+
+    font: sans-serif italic bold small-caps 2px;
+
+
+
+    
+      
+      
+      
+
+}
